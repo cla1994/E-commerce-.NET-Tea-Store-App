@@ -5,7 +5,7 @@ Allego file video:
 
 <video src="https://github.com/user-attachments/assets/002e2274-a972-4acb-a243-335da05966b7"></video>
 
-[![Guarda il video](https://raw.githubusercontent.com/cla1994/video_embed/main/Thumbnail2.PNG)](https://raw.githubusercontent.com/cla1994/video_embed/main/video.mp4)
+[![Guarda il video](https://raw.githubusercontent.com/cla1994/video_embed/main/Thumbnail2.png)](https://raw.githubusercontent.com/cla1994/video_embed/main/video.mp4)
 
 È un'app che gestisce un negozio online di vendita del tè. Si possono consultare i vari marchi di tè e salvare i propri prodotti preferiti, aggiungerli al carrello per ordinare, scoprire i prodotti più venduti e di tendenza, customizzare il proprio profilo utente e consultare gli ordini passati nel dettaglio.
 
