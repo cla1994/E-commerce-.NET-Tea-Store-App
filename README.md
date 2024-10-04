@@ -3,10 +3,6 @@
 Ho scritto un'applicazione di e-commerce su framework multipiattaforma .NET MAUI in C#, XAML, SQLite e Cloud Azure. 
 Allego file video: 
 
-<video src="https://github.com/user-attachments/assets/002e2274-a972-4acb-a243-335da05966b7"></video>
-
-Per i dispositivi iOS (iPhone, iPad, Mac) è necessario scaricare il video dalla mia repository:   https://raw.githubusercontent.com/cla1994/video_embed/main/video.mp4
-
 https://github.com/user-attachments/assets/260e1d47-50bb-44aa-982e-48dfb5133bc0
 
 È un'app che gestisce un negozio online di vendita del tè. Si possono consultare i vari marchi di bevande e salvare i propri prodotti preferiti, aggiungerli al carrello per ordinare, scoprire i prodotti più venduti e di tendenza, customizzare il proprio profilo utente e consultare gli ordini passati nel dettaglio.
